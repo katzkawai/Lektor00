@@ -1,3 +1,3 @@
 # MyLektor
 
-https://katzkawai.org/MyLektor
+https://katzkawai.org/MyLektor/
